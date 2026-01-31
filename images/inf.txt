@@ -1,0 +1,6 @@
+Putting your images in this directory and in maim.tex ref for the pictures with this method: 
+
+
+\begit{figure}
+	\includegraphics[width=EX:1.0cm, height=EX:1.0cm]{./images/your_image.(jpg)}
+\end{figure}
