@@ -1,7 +1,7 @@
 # 🎓 Professional Persian Beamer Template (XePersian)
 **قالب حرفه‌ای و مدرن بیمر برای ارائه‌های علمی و دانشگاهی (سازگار با زی‌پرشین)**
 
-![GitHub](https://img.shields.io/badge/License-MIT-blue.svg) ![LaTeX](https://img.shields.io/badge/Language-LaTeX-green.svg) ![Platform](https://img.shields.io/badge/Platform-Overleaf%20%7C%20TeXLive-orange.svg)
+![GitHub](https://img.shields.io/badge/License-MIT-blue.svg) ![LaTeX](https://img.shields.io/badge/Language-LaTeX-green.svg) ![Platform](https://img.shields.io/badge/Platform-Overleaf%20%7C%20TeXLive%20%7C%20MacTeX%20%7C%20MikTeX-orange.svg)
 
 [English Description below](#-english-description) 👇
 
